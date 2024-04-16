@@ -1,4 +1,4 @@
-##MOLECULA-AXR
+## MOLECULA-AXR
 
 ## Descripción
 Molécula-AxR es un script diseñado para realizar varias acciones en un sistema. Desde bloquear todas las teclas del teclado hasta cifrar archivos y bases de datos, infectar archivos y sistemas, hasta establecer persistencia avanzada y eliminar contenido de medios.
