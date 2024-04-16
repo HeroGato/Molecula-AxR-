@@ -1,0 +1,32 @@
+Las librerias necesarias para la ejecución de Molecula son: nmap, pycriptodome, keyboard, os, shutil, random, subprocess y socket
+
+Si deseas ejecutar este script, por tu seguridad, desconecta la wifi y no insertes ninguna llave USB, disco duro o cualquier otra unidad de almacenamiento externo. Usa una maquina virtual.
+
+DIAGRAMA
+Inicio
+|
+V
+Bloqueo de Teclas
+|
+V
+Cifrado de Archivos y Bases de Datos
+|
+V
+Infección de Sistemas
+|   |
+|   V
+|   ¿Replicar a través de la red?
+|   |   |
+|   |   V
+|   |   Sí ----> Replicación
+|   |   |
+|   |   No
+|   V
+|   Establecer Persistencia Avanzada
+|   |
+|   V
+|   Eliminar Contenido de Medios
+V
+Fin
+
+Este Script ha sido desarrollado por HeroGato.
